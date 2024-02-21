@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Pandey</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpandey9156&label=Profile%20views&color=0e75b6&style=flat" alt="harshpandey9156" /> </p>
 
@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Express**
 
-- 👨‍💻 All of my projects are available at [harshpandey9156.github.io/Protfolio/](harshpandey9156.github.io/Protfolio/)
 
 - 📫 How to reach me **Harshpandey21012@gmail.com**
 
