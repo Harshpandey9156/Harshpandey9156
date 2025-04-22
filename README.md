@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshpandey9156" alt="harshpandey9156" /></a> </p>
 
-- 🔭 I’m currently working on **Intern JP-Morgan**
 
-- 🌱 I’m currently learning **Express**
 
 
 - 📫 How to reach me **Harshpandey21012@gmail.com**
